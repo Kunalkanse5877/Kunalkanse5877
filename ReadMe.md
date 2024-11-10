@@ -16,10 +16,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kunalkanse5877&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Kunalkanse5877&icon=6&color=1)](https://visitcount.itsvg.in)
 
